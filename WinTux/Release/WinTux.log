@@ -1,0 +1,157 @@
+﻿  Airstuck.cpp
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(33): error C2065: 'Vector': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(33): error C2275: 'int16_t': illegal use of this type as an expression
+  F:\Program Files (Windows10)\Microsoft Visual Studio 14.0\VC\include\stdint.h(18): note: see declaration of 'int16_t'
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(33): error C2513: 'bool *': no variable declared before '='
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(547): error C3646: 'pos': unknown override specifier
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(547): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(548): error C3646: 'angle': unknown override specifier
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(548): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(550): error C3646: 'name': unknown override specifier
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(550): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(551): error C2061: syntax error: identifier 'Vector'
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(554): error C2039: 'pos': is not a member of 'GrenadeInfo'
+  c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(545): note: see declaration of 'GrenadeInfo'
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(554): error C2065: 'pos': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(555): error C2039: 'angle': is not a member of 'GrenadeInfo'
+  c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(545): note: see declaration of 'GrenadeInfo'
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(555): error C2065: 'angle': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(557): error C2039: 'name': is not a member of 'GrenadeInfo'
+  c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(545): note: see declaration of 'GrenadeInfo'
+c:\users\admin\desktop\wintux\wintux\sdk\definitions.h(557): error C2065: 'name': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\color.h(39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\wintux\wintux\sdk\color.h(40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\wintux\wintux\sdk\color.h(41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\wintux\wintux\sdk\color.h(48): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\wintux\wintux\sdk\color.h(49): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\wintux\wintux\sdk\color.h(50): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\wintux\wintux\sdk\color.h(57): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\wintux\wintux\sdk\color.h(58): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\wintux\wintux\sdk\color.h(59): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\wintux\wintux\sdk\CEffects.h(26): error C3646: 'origin': unknown override specifier
+c:\users\admin\desktop\wintux\wintux\sdk\CEffects.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\CEffects.h(36): error C3646: 'm_Direction': unknown override specifier
+c:\users\admin\desktop\wintux\wintux\sdk\CEffects.h(36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\CEffects.h(74): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\CEffects.h(74): error C2143: syntax error: missing ',' before '&'
+c:\users\admin\desktop\wintux\wintux\sdk\CEffects.h(77): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\CEffects.h(77): error C2143: syntax error: missing ',' before '&'
+c:\users\admin\desktop\wintux\wintux\sdk\CEffects.h(79): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\CEffects.h(79): error C2143: syntax error: missing ',' before '&'
+c:\users\admin\desktop\wintux\wintux\sdk\CInput.h(8): error C3646: 'm_vecCameraOffset': unknown override specifier
+c:\users\admin\desktop\wintux\wintux\sdk\CInput.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\IInputSystem.h(255): error C3646: 'viewangles': unknown override specifier
+c:\users\admin\desktop\wintux\wintux\sdk\IInputSystem.h(255): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\IInputSystem.h(256): error C3646: 'aimdirection': unknown override specifier
+c:\users\admin\desktop\wintux\wintux\sdk\IInputSystem.h(256): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\IInputSystem.h(268): error C3646: 'headangles': unknown override specifier
+c:\users\admin\desktop\wintux\wintux\sdk\IInputSystem.h(268): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\IInputSystem.h(269): error C3646: 'headoffset': unknown override specifier
+c:\users\admin\desktop\wintux\wintux\sdk\IInputSystem.h(269): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(12): error C3646: 'origin': unknown override specifier
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(13): error C3646: 'angles': unknown override specifier
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(16): error C2143: syntax error: missing ';' before '*'
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(16): error C2238: unexpected token(s) preceding ';'
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(17): error C2143: syntax error: missing ';' before '*'
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(17): error C2086: 'const int ModelRenderInfo_t::matrix3x4_t': redefinition
+  c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(16): note: see declaration of 'ModelRenderInfo_t::matrix3x4_t'
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(17): error C2238: unexpected token(s) preceding ';'
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(18): error C2143: syntax error: missing ';' before '*'
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(18): error C2238: unexpected token(s) preceding ';'
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(26): error C2789: 'ModelRenderInfo_t::matrix3x4_t': an object of const-qualified type must be initialized
+  c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(16): note: see declaration of 'ModelRenderInfo_t::matrix3x4_t'
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(26): error C2789: 'ModelRenderInfo_t::Vector': an object of const-qualified type must be initialized
+  c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(18): note: see declaration of 'ModelRenderInfo_t::Vector'
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(27): error C2065: 'pModelToWorld': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(28): error C2065: 'pLightingOffset': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(29): error C2065: 'pLightingOrigin': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(42): error C2061: syntax error: identifier 'matrix3x4_t'
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(44): error C2065: 'oDrawModelExecute': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(44): error C2062: type 'void' unexpected
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(45): error C2065: 'oDrawModelExecute': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(45): error C2672: 'getvfunc': no matching overloaded function found
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(45): error C2974: 'getvfunc': invalid template argument for 'Fn', type expected
+  c:\users\admin\desktop\wintux\wintux\sdk\common.h(24): note: see declaration of 'getvfunc'
+c:\users\admin\desktop\wintux\wintux\sdk\IVModelRender.h(45): error C2065: 'pCustomBoneToWorld': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\vector.h(1): warning C4068: unknown pragma
+c:\users\admin\desktop\wintux\wintux\sdk\vector.h(2): warning C4068: unknown pragma
+c:\users\admin\desktop\wintux\wintux\sdk\vector.h(499): error C2143: syntax error: missing ')' before '('
+c:\users\admin\desktop\wintux\wintux\sdk\vector.h(499): error C2079: 'aligned' uses undefined class '__attribute__'
+c:\users\admin\desktop\wintux\wintux\sdk\vector.h(499): error C2059: syntax error: ')'
+c:\users\admin\desktop\wintux\wintux\sdk\vector.h(499): error C2146: syntax error: missing ';' before identifier 'VectorAligned'
+c:\users\admin\desktop\wintux\wintux\sdk\vector.h(499): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\admin\desktop\wintux\wintux\sdk\vector.h(499): error C2059: syntax error: ':'
+c:\users\admin\desktop\wintux\wintux\sdk\vector.h(499): error C2059: syntax error: 'public'
+c:\users\admin\desktop\wintux\wintux\sdk\vector.h(500): error C2143: syntax error: missing ';' before '{'
+c:\users\admin\desktop\wintux\wintux\sdk\vector.h(500): error C2447: '{': missing function header (old-style formal list?)
+c:\users\admin\desktop\wintux\wintux\sdk\vector.h(664): error C2177: constant too big
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(163): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(163): error C2228: left of '.DT_BaseViewModel' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(163): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(163): error C2228: left of '.m_nModelIndex' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(168): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(168): error C2228: left of '.DT_BaseEntity' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(168): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(168): error C2228: left of '.m_flAnimTime' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(173): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(173): error C2228: left of '.DT_BaseEntity' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(173): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(173): error C2228: left of '.m_flSimulationTime' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(178): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(178): error C2228: left of '.DT_BaseEntity' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(178): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(178): error C2228: left of '.m_iTeamNum' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(183): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(183): error C2228: left of '.DT_BaseEntity' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(183): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(183): error C2228: left of '.m_vecOrigin' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(188): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(188): error C2228: left of '.DT_BaseEntity' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(188): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(188): error C2228: left of '.m_MoveType' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(193): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(193): error C2228: left of '.DT_BaseEntity' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(193): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(193): error C2228: left of '.m_Collision' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(198): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(198): error C2228: left of '.DT_BaseEntity' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(198): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(198): error C2228: left of '.m_bSpotted' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(208): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(208): error C2228: left of '.DT_BasePlayer' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(208): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(208): error C2228: left of '.m_viewPunchAngle' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(213): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(213): error C2228: left of '.DT_BasePlayer' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(213): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(213): error C2228: left of '.m_aimPunchAngle' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(218): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(218): error C2228: left of '.DT_BasePlayer' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(218): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(218): error C2228: left of '.m_vecViewOffset' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(223): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(223): error C2228: left of '.DT_BasePlayer' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(223): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(223): error C2228: left of '.m_nTickBase' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(228): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(228): error C2228: left of '.DT_BasePlayer' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(228): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(228): error C2228: left of '.m_vecVelocity' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(233): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(233): error C2228: left of '.DT_BasePlayer' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(233): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(233): error C2228: left of '.m_iHealth' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(238): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(238): error C2228: left of '.DT_BasePlayer' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(238): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(238): error C2228: left of '.m_lifeState' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(243): error C2065: 'offsets': undeclared identifier
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(243): error C2228: left of '.DT_BasePlayer' must have class/struct/union
+  c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(243): note: type is 'unknown-type'
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(243): error C2228: left of '.m_fFlags' must have class/struct/union
+c:\users\admin\desktop\wintux\wintux\sdk\IClientEntity.h(243): fatal error C1003: error count exceeds 100; stopping compilation
